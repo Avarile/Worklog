@@ -2,9 +2,9 @@
 
 > Scaling:
 1. Deals API logic finalize and test for Main-app and Admin Console.
-   - [ ] Finish the logic for the Deals submit fields check and do the test.
-   - [ ] Deals API logic finalize and test - Marketplace.
-   - [ ] Deals API logic finalize and test - Admin Console.
+   - [x] Finish the logic for the Deals submit fields check and do the test.
+   - [x] Deals API logic finalize and test - Marketplace.
+   - [x] Deals API logic finalize and test - Admin Console.
    - [ ] Create a new API to store the Expression of Interests.
    - [ ] Create a new API to extend the Deal life for another 60 days.
    - [ ] Draft the description for the redirection logic for notification center.
